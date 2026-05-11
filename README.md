@@ -9,9 +9,6 @@
   <a href="https://www.linkedin.com/in/amrit-300668s/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:amriter1999@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </p>
 
 ---
@@ -20,10 +17,10 @@
 
 I'm a recent **Master of Data Science** graduate based on the **Sunshine Coast, Australia**, actively seeking entry-level Data Analyst and Data Scientist roles.
 
-My background combines **academic rigour in machine learning** with **hands-on experience deploying production cloud pipelines on AWS**. I'm particularly drawn to projects where data drives real business outcomes — whether that's customer analytics, computer vision, or forecasting.
+My background combines **academic rigour in machine learning** with **hands-on experience deploying production cloud pipelines on AWS** and **writing analytical SQL on real-world banking data**. I'm particularly drawn to projects where data drives real business outcomes — whether that's customer analytics, computer vision, or forecasting.
 
-🔭 **Currently:** Building portfolio projects across CV, NLP, time series, and BI dashboards
-🌱 **Learning:** SQL optimisation, Tableau, transformer models
+🔭 **Currently:** Building portfolio projects across CV, NLP, SQL analytics, time series, and BI dashboards
+🌱 **Learning:** Power BI, transformer models, advanced SQL query optimisation
 💼 **Open to:** Junior Data Analyst, Data Scientist, ML Engineer roles in Australia
 
 ---
@@ -43,8 +40,9 @@ My background combines **academic rigour in machine learning** with **hands-on e
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-**Cloud & MLOps**
+**Databases & Cloud**
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
@@ -68,23 +66,21 @@ My background combines **academic rigour in machine learning** with **hands-on e
 
 #### 🖼️ [Intel Scene Classification on AWS SageMaker](https://github.com/amrit-DS/intel-scene-classification-aws)
 
-End-to-end computer vision pipeline deployed on AWS SageMaker. Compared a baseline CNN (84.2%) against ResNet50 transfer learning (92.1%) for 6-class scene classification, with full MLOps practices including S3 data management, script-mode training, and real-time inference endpoints.
+End-to-end computer vision pipeline deployed on AWS SageMaker. Compared a baseline CNN (84.2%) against ResNet50 transfer learning (92.1%) for 6-class scene classification, with full MLOps practices including S3 data management, script-mode training, and real-time inference endpoints. Total training cost: under $0.50.
 
 `Computer Vision` · `TensorFlow` · `AWS SageMaker` · `Transfer Learning` · `MLOps`
 
+---
+
+#### 🏦 [Banking Customer Analytics with MySQL](https://github.com/amrit-DS/banking-customer-analytics-sql)
+
+End-to-end SQL analysis of a 891K-row banking dataset covering customer segmentation, transaction patterns, credit risk, and fraud detection. Demonstrates schema design, ETL with on-the-fly cleaning, complex joins, CTEs, and window functions to generate 10+ actionable business insights — from "middle-income customers carry the highest debt-to-income risk" to "stacked transaction errors signal card-testing fraud."
+
+`SQL` · `MySQL 8.0` · `Window Functions` · `CTEs` · `Data Engineering` · `Fraud Analytics`
 
 ---
 
-
-#### [Banking Customer Analytics with MySQL](https://github.com/amrit-DS/banking-customer-analytics-sql)
-
-End-to-end SQL analysis of a banking dataset covering customer profiles, transaction patterns, credit risk, and fraud detection. Demonstrates database design, ETL with on-the-fly data cleaning, complex multi-table joins, CTEs, and window functions to generate actionable business insights from, 891,496 transactions across 2,000 customers and 6,146 payment cards.
-
-`SQL` · `Python` · `Workbench` · `Business Analytics` ·
-
----
-
-*More projects coming soon — currently building out time series forecasting, NLP, and BI dashboard projects.*
+*More projects coming soon — currently building out time series forecasting, NLP sentiment analysis, and BI dashboard projects.*
 
 ---
 
@@ -101,4 +97,3 @@ I'm actively looking for **Data Analyst** and **Data Scientist** opportunities �
 <p align="center">
   <i>Thanks for visiting — feel free to explore my repos and reach out!</i>
 </p>
-
