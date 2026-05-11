@@ -72,6 +72,16 @@ End-to-end computer vision pipeline deployed on AWS SageMaker. Compared a baseli
 
 `Computer Vision` · `TensorFlow` · `AWS SageMaker` · `Transfer Learning` · `MLOps`
 
+
+---
+
+
+#### [Banking Customer Analytics with MySQL](https://github.com/amrit-DS/banking-customer-analytics-sql)
+
+End-to-end SQL analysis of a banking dataset covering customer profiles, transaction patterns, credit risk, and fraud detection. Demonstrates database design, ETL with on-the-fly data cleaning, complex multi-table joins, CTEs, and window functions to generate actionable business insights from, 891,496 transactions across 2,000 customers and 6,146 payment cards.
+
+`SQL` · `Python` · `Workbench` · `Business Analytics` ·
+
 ---
 
 *More projects coming soon — currently building out time series forecasting, NLP, and BI dashboard projects.*
