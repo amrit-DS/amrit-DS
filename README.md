@@ -17,7 +17,7 @@
 
 I'm a recent **Master of Data Science** graduate based on the **Sunshine Coast, Australia**, actively seeking entry-level Data Analyst and Data Scientist roles.
 
-My background combines **academic rigour in machine learning** with **hands-on experience deploying production cloud pipelines on AWS** and **writing analytical SQL on real-world banking data**. I'm particularly drawn to projects where data drives real business outcomes — whether that's customer analytics, computer vision, or forecasting.
+My background combines **academic rigour in machine learning** with **hands-on experience deploying production cloud pipelines on AWS** and **writing analytical SQL on real-world banking data**. I'm particularly drawn to projects where data drives real business outcomes whether that's customer analytics, computer vision, or forecasting.
 
 🔭 **Currently:** Building portfolio projects across CV, NLP, SQL analytics, time series, and BI dashboards
 🌱 **Learning:** Power BI, transformer models, advanced SQL query optimisation
@@ -74,19 +74,19 @@ End-to-end computer vision pipeline deployed on AWS SageMaker. Compared a baseli
 
 #### 🏦 [Banking Customer Analytics with MySQL](https://github.com/amrit-DS/banking-customer-analytics-sql)
 
-End-to-end SQL analysis of a 891K-row banking dataset covering customer segmentation, transaction patterns, credit risk, and fraud detection. Demonstrates schema design, ETL with on-the-fly cleaning, complex joins, CTEs, and window functions to generate 10+ actionable business insights — from "middle-income customers carry the highest debt-to-income risk" to "stacked transaction errors signal card-testing fraud."
+End-to-end SQL analysis of a 891K-row banking dataset covering customer segmentation, transaction patterns, credit risk, and fraud detection. Demonstrates schema design, ETL with on-the-fly cleaning, complex joins, CTEs, and window functions to generate 10+ actionable business insights from "middle-income customers carry the highest debt-to-income risk" to "stacked transaction errors signal card-testing fraud."
 
 `SQL` · `MySQL 8.0` · `Window Functions` · `CTEs` · `Data Engineering` · `Fraud Analytics`
 
 ---
 
-*More projects coming soon — currently building out time series forecasting, NLP sentiment analysis, and BI dashboard projects.*
+*More projects coming soon currently building out time series forecasting, NLP sentiment analysis, and BI dashboard projects.*
 
 ---
 
 ### 📫 Let's Connect
 
-I'm actively looking for **Data Analyst** and **Data Scientist** opportunities — internships, graduate roles, or junior positions. If you're hiring or just want to chat about data, I'd love to hear from you.
+I'm actively looking for **Data Analyst** and **Data Scientist** opportunities internships, graduate roles, or junior positions. If you're hiring or just want to chat about data, I'd love to hear from you.
 
 📍 **Location:** Sunshine Coast, QLD, Australia
 💼 **LinkedIn:** [linkedin.com/in/amrit-300668s](https://www.linkedin.com/in/amrit-300668s/)
