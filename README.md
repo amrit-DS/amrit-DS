@@ -72,15 +72,19 @@ End-to-end computer vision pipeline deployed on AWS SageMaker. Compared a baseli
 
 ---
 
-#### 🏦 [Banking Customer Analytics with MySQL](https://github.com/amrit-DS/banking-customer-analytics-sql)
+#### 📊 [Banking Customer Analytics Dashboard (Power BI)](https://github.com/amrit-DS/banking-customer-analytics-dashboard)
 
-End-to-end SQL analysis of a 891K-row banking dataset covering customer segmentation, transaction patterns, credit risk, and fraud detection. Demonstrates schema design, ETL with on-the-fly cleaning, complex joins, CTEs, and window functions to generate 10+ actionable business insights from "middle-income customers carry the highest debt-to-income risk" to "stacked transaction errors signal card-testing fraud."
+Four-page interactive Power BI dashboard built on the same 891K-row banking dataset, connected live to MySQL. Covers executive KPIs, customer segmentation, transaction analytics, and risk and fraud monitoring. Demonstrates data modelling with active and inactive relationships (USERELATIONSHIP), DAX measures and calculated columns, and MCC-to-category mapping via SWITCH.
 
-`SQL` · `MySQL 8.0` · `Window Functions` · `CTEs` · `Data Engineering` · `Fraud Analytics`
+`Power BI` · `DAX` · `MySQL` · `Data Modelling` · `Dashboard Design`
 
 ---
 
-*More projects coming soon currently building out time series forecasting, NLP sentiment analysis, and BI dashboard projects.*
+#### 📚 [NLP Textbook Recommendation Engine](https://github.com/amrit-DS/nlp-textbook-recommender)
+
+Content-based recommendation engine that suggests similar school textbooks using TF-IDF and cosine similarity over book titles, on real usage data from 40 Australian schools. Combines title similarity with subject metadata into a hybrid score, and evaluates with honest intrinsic metrics (catalogue coverage, list diversity, subject consistency) rather than fabricated supervised scores.
+
+`NLP` · `TF-IDF` · `scikit-learn` · `Recommender Systems` · `Python`
 
 ---
 
